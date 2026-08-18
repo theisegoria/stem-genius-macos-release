@@ -1,0 +1,17 @@
+STEM Genius macOS public bundle
+
+Bundle: /private/tmp/STEMGeniusProducts/public/STEM Genius.app
+Zip: /private/tmp/STEMGeniusProducts/public/STEM-Genius-macOS.app.zip
+Bundle ID: com.benjaminhaire.STEMGenius.mac
+Configuration: Release
+Source Commit: f600453
+Version: 1.0.1 (2)
+Minimum macOS: 26.0
+Zip SHA-256: 3f777d93e57cd052b82ee8fc3b9685e32d2991ec083847ce231325047d5c4cb7
+Zip Size Bytes: 17723341
+Signing: ad-hoc
+Hardened Runtime: enabled
+Library Validation: disabled for bundled ad-hoc framework loading
+
+This output is intended for a public, bundle-only repository or GitHub Release.
+Publish the .app bundle or the zip artifact, not this source checkout.
